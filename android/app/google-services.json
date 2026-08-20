@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150256148315",
+    "project_id": "bloomy-app-4845c",
+    "storage_bucket": "bloomy-app-4845c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150256148315:android:f483a434e881f04995447e",
+        "android_client_info": {
+          "package_name": "com.example.bloom_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9xFyPIu2-0vhaEq1Qxr58Ho86wfHMRA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
